@@ -8,7 +8,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Skip Hire Booking System",
   description: "Book your skip hire service online with our easy-to-use booking system",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
